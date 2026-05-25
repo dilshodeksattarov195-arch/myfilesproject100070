@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentparse",
+        "uuid": 667800,
+        "checksum": "niyvw"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
